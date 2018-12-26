@@ -6,7 +6,7 @@ Includes authentication examples and a Dockerfile for building and deploying.
 ## Getting Started
 
 ``` bash
-git clone git@github.com:vitahq/express-sql-api.git my-api
+git clone git@github.com:sejr/express-sql-api.git my-api
 cd my-api
 ```
 
